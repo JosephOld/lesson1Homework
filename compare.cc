@@ -68,6 +68,7 @@ void Check(std::vector <int> &vec1, std::vector <int> &vec2)
 
 int main()
 {   
+    std :: cout << "Hi" << std :: endl;
     int len;
     std :: cout << "Введите длину массивов: " << std :: endl;
     std :: cin >> len;
